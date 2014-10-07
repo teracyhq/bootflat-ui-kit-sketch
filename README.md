@@ -3,7 +3,7 @@ bootfat-ui-kit.sketch
 
 The [Bootflat](http://bootflat.github.io/) UI kit for [Sketch 3](http://bohemiancoding.com/sketch/).
 
-![Preview Screenshot](https://raw.githubusercontent.com/sirme87/bootflat-ui-kit.sketch/Tasks/PILOT-53-bootflat-ui-kit/img/bootflat-preview.png)
+![Preview Screenshot](https://raw.githubusercontent.com/teracy-official/bootflat-ui-kit.sketch/develop/img/bootflat-preview.png)
 
 We've created a Sketch version of Bootflat framework and added some missing elements which are not included in the [UI KIT PSD](http://bootflat.github.io/free-psd.html).
 
@@ -16,7 +16,7 @@ To use, simply download the *Download ZIP* button on the right sidebar, unzip an
 * All element was made in Sketch.
 * Adding some elements that were not included in the [UI KIT PSD](http://bootflat.github.io/free-psd.html).
 * We will create the symbols out of every elements in the future.
-* If you find bugs, feel free to send us a message. 
+* If you find bugs, feel free to send us a message.
 
 ## License
 
