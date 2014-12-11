@@ -18,6 +18,18 @@ To use, simply download the *Download ZIP* button on the right sidebar, unzip an
 * We will create the symbols out of every elements in the future.
 * If you find bugs, feel free to send us a message.
 
+## Donating
+
+[![Support via Gratipay](https://img.shields.io/gratipay/teracyhq.svg)][gratipay-teracy]
+
+Support this project and [others by teracy][gratipay-teracy] via [gratipay][gratipay-teracy].
+
+[![Support via Gratipay][gratipay]][gratipay-teracy]
+
+[gratipay]: https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png
+[gratipay-teracy]: https://gratipay.com/teracyhq/
+
+
 ## License
 
 See `LICENSE` for more details.
