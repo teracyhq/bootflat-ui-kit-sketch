@@ -1,4 +1,4 @@
-bootfat-ui-kit.sketch
+bootflat-ui-kit.sketch
 =====================
 
 The [Bootflat](http://bootflat.github.io/) UI kit for [Sketch 3](http://bohemiancoding.com/sketch/).
